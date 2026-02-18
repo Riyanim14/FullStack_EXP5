@@ -61,14 +61,14 @@ A simple React application built using Vite that demonstrates:
 
 ## 👨‍💻 Author
 
-**Manjot Singh**  
-UID: 23BAI70633  
+**Riyan Imtiyaz**  
+UID: 23BAI70638
 
 ---
 
 ## 🎯 Achievements
 
-- Solved 550+ problems on LeetCode
+- Solved 200+ problems on LeetCode
 - Built AI ToolKit
 - Developed Zyra AI Assistant
 
