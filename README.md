@@ -47,12 +47,6 @@ A simple React application built using Vite that demonstrates:
 
 ---
 
-### 3️⃣ Loading Profile
-
-![Loading Profile](./screenshots/Screenshot%202026-02-17%20112118.png)
-
----
-
 ### 4️⃣ Profile Page
 
 ![Profile](./screenshots/Screenshot%202026-02-17%20112128.png)
