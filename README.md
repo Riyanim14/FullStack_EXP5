@@ -47,12 +47,6 @@ A simple React application built using Vite that demonstrates:
 
 ---
 
-### 4️⃣ Profile Page
-
-![Profile](./screenshots/Screenshot%202026-02-17%20112128.png)
-
----
-
 ## 👨‍💻 Author
 
 **Riyan Imtiyaz**  
